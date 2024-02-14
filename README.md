@@ -2,6 +2,12 @@
 
 This is the @vagasprajr project, where you can have a fully functional environment to work with the [Vagas Pra Jr](https://vagasprajr.com.br) API locally.
 
+# Our stack
+
+- [React](https://reactjs.org/)
+- [Golang](https://golang.org/)
+- [MongoDB](https://www.mongodb.com/)
+
 ## Requirements
 
 - [Docker](https://www.docker.com/products/docker-desktop)
