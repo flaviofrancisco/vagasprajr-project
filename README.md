@@ -2,6 +2,12 @@
 
 This is the @vagasprajr project, where you can have a fully functional environment to work with the [Vagas Pra Jr](https://vagasprajr.com.br) API locally.
 
+## Requirements
+
+- [Docker](https://www.docker.com/products/docker-desktop)
+- [Docker Compose](https://docs.docker.com/compose/install/)
+- [wsL2](https://docs.microsoft.com/en-us/windows/wsl/install)
+
 ## How to use
 
 1. Clone this repository
