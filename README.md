@@ -2,6 +2,10 @@
 
 This is the @vagasprajr project, where you can have a fully functional environment to work with the [Vagas Pra Jr](https://vagasprajr.com.br) API locally.
 
+## What is Vagas Pra Jr?
+
+Vagas Pra Jr is a platform that connects junior professionals with companies that are looking for new talents. It's a great way to start your career and get experience in the market.
+
 # Our stack
 
 - [React](https://reactjs.org/)
@@ -24,7 +28,7 @@ This is the @vagasprajr project, where you can have a fully functional environme
 docker-compose up -d
 ```
 
-4. Access the [Vagas Pra Jr](http://localhost:3000) home page at [http://localhost:300](http://localhost:3001)
+4. Access the [Vagas Pra Jr](http://localhost:3000) home page at [ http://localhost:3000](http://localhost:3001)
 
 5. Create you account at: [http://localhost:3000/criar-conta](http://localhost:3000/criar-conta)
 
