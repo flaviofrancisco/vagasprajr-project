@@ -16,7 +16,8 @@ Vagas Pra Jr is a platform that connects junior professionals with companies tha
 
 - [Docker](https://www.docker.com/products/docker-desktop)
 - [Docker Compose](https://docs.docker.com/compose/install/)
-- [wsL2](https://docs.microsoft.com/en-us/windows/wsl/install)
+- [wsL2](https://docs.microsoft.com/en-us/windows/wsl/install) or
+- [Linux](https://www.linux.org/)
 
 ## How to use
 
